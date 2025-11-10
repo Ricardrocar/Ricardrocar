@@ -11,74 +11,7 @@ I'm a full‑stack developer. I work on both backend and frontend likes APIs, da
 
 
 ## 🛠 Skills
-<div style="display:flex;flex-direction:column;align-items:center;width:90px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript">
-  <span style="margin-top:6px;font-size:12px;">TypeScript</span>
-</div>
-
-<div style="display:flex;flex-direction:column;align-items:center;width:90px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python">
-  <span style="margin-top:6px;font-size:12px;">Python</span>
-</div>
-
-<div style="display:flex;flex-direction:column;align-items:center;width:90px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL">
-  <span style="margin-top:6px;font-size:12px;">PostgreSQL</span>
-</div>
-
-<div style="display:flex;flex-direction:column;align-items:center;width:90px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL">
-  <span style="margin-top:6px;font-size:12px;">MySQL</span>
-</div>
-
-<div style="display:flex;flex-direction:column;align-items:center;width:90px;">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase">
-  <span style="margin-top:6px;font-size:12px;">Firebase</span>
-</div>
-
-<div style="display:flex;flex-direction:column;align-items:center;width:90px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React">
-  <span style="margin-top:6px;font-size:12px;">React</span>
-</div>
-
-<div style="display:flex;flex-direction:column;align-items:center;width:90px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-       width="48" height="48" alt="Next.js"
-       style="background:#fff;border-radius:8px;padding:6px;">
-  <span style="margin-top:6px;font-size:12px;">Next.js</span>
-</div>
-
-<div style="display:flex;flex-direction:column;align-items:center;width:90px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker">
-  <span style="margin-top:6px;font-size:12px;">Docker</span>
-</div>
-
-<div style="display:flex;flex-direction:column;align-items:center;width:90px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git">
-  <span style="margin-top:6px;font-size:12px;">Git</span>
-</div>
-
-<div style="display:flex;flex-direction:column;align-items:center;width:90px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-       width="48" height="48" alt="GitHub"
-       style="background:#fff;border-radius:50%;padding:6px;">
-  <span style="margin-top:6px;font-size:12px;">GitHub</span>
-</div>
-
-<div style="display:flex;flex-direction:column;align-items:center;width:90px;">
-  <img src="https://www.svgrepo.com/show/374052/railway.svg"
-       width="48" height="48" alt="Railway"
-       style="background:#fff;border-radius:8px;padding:6px;">
-  <span style="margin-top:6px;font-size:12px;">Railway</span>
-</div>
-
-<div style="display:flex;flex-direction:column;align-items:center;width:90px;">
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg"
-       width="48" height="48" alt="Vercel"
-       style="background:#fff;border-radius:8px;padding:6px;">
-  <span style="margin-top:6px;font-size:12px;">Vercel</span>
-</div>
-
+<div align="center"> <!-- Row 1 (no borders) --> <table border="0" cellspacing="16" cellpadding="0" style="border:0;border-collapse:separate;"> <tr> <td align="center" width="90" style="border:0;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/> <sub>TypeScript</sub> </td> <td align="center" width="90" style="border:0;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/> <sub>Python</sub> </td> <td align="center" width="90" style="border:0;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/><br/> <sub>PostgreSQL</sub> </td> <td align="center" width="90" style="border:0;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br/> <sub>MySQL</sub> </td> <td align="center" width="90" style="border:0;"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/><br/> <sub>Firebase</sub> </td> <td align="center" width="90" style="border:0;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/> <sub>React</sub> </td> </tr> </table> <!-- Row 2 (no borders) --> <table border="0" cellspacing="16" cellpadding="0" style="border:0;border-collapse:separate;"> <tr> <td align="center" width="90" style="border:0;"> <!-- Next.js icon is black; add white bg for dark themes --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" style="background:#fff;border-radius:8px;padding:6px;"/><br/> <sub>Next.js</sub> </td> <td align="center" width="90" style="border:0;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br/> <sub>Docker</sub> </td> <td align="center" width="90" style="border:0;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/> <sub>Git</sub> </td> <td align="center" width="90" style="border:0;"> <!-- GitHub icon on white bg for dark themes --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" style="background:#fff;border-radius:50%;padding:6px;"/><br/> <sub>GitHub</sub> </td> <td align="center" width="90" style="border:0;"> <!-- Railway: reliable white icon (works on dark); add dark bg for contrast --> <img src="https://cdn.simpleicons.org/railway/ffffff" width="40" height="40" alt="Railway" style="background:#0B0D0E;border-radius:8px;padding:6px;"/><br/> <sub>Railway</sub> </td> <td align="center" width="90" style="border:0;"> <!-- Vercel: reliable white icon --> <img src="https://cdn.simpleicons.org/vercel/ffffff" width="40" height="40" alt="Vercel" style="background:#000;border-radius:8px;padding:6px;"/><br/> <sub>Vercel</sub> </td> </tr> </table> </div>
 
 
 
