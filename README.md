@@ -11,29 +11,81 @@ I'm a full‑stack developer. I work on both backend and frontend likes APIs, da
 
 
 ## 🛠 Skills
-<!-- Skills strip -->
-<p align="center">
-  <!-- Languages & Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" style="margin:0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" style="margin:0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL / PLpgSQL" style="margin:0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" style="margin:0 10px;" />
+<!-- Skills (paste in README.md without triple backticks) -->
+<div align="center">
 
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" style="margin:0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" style="margin:0 10px;" />
+  <!-- Row 1 -->
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/><br/>
+        <sub>TypeScript</sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br/>
+        <sub>Python</sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/><br/>
+        <sub>PostgreSQL</sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br/>
+        <sub>MySQL</sub>
+      </td>
+      <td align="center" width="90">
+        <!-- Current Firebase icon -->
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" alt="Firebase"/><br/>
+        <sub>Firebase</sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/><br/>
+        <sub>React</sub>
+      </td>
+    </tr>
+  </table>
 
-  <!-- Backend/Infra & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" style="margin:0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" style="margin:0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="margin:0 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" style="margin:0 10px;" />
+  <!-- Row 2 -->
+  <table>
+    <tr>
+      <td align="center" width="90">
+        <!-- Next.js icon is black; add white bg for dark themes -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+             width="40" height="40" alt="Next.js"
+             style="background:#fff;border-radius:8px;padding:6px;"/><br/>
+        <sub>Next.js</sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br/>
+        <sub>Docker</sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>
+        <sub>Git</sub>
+      </td>
+      <td align="center" width="90">
+        <!-- GitHub icon on white bg for dark themes -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+             width="40" height="40" alt="GitHub"
+             style="background:#fff;border-radius:50%;padding:6px;"/><br/>
+        <sub>GitHub</sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://www.vectorlogo.zone/logos/railwayapp/railwayapp-icon.svg"
+             width="40" height="40" alt="Railway"
+             style="background:#fff;border-radius:8px;padding:6px;"/><br/>
+        <sub>Railway</sub>
+      </td>
+      <td align="center" width="90">
+        <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg"
+             width="40" height="40" alt="Vercel"
+             style="background:#fff;border-radius:8px;padding:6px;"/><br/>
+        <sub>Vercel</sub>
+      </td>
+    </tr>
+  </table>
 
-  <!-- Platforms (badges for contrast in dark/light modes) -->
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white&labelColor=0B0D0E" height="28" alt="Railway" style="margin:0 10px; vertical-align:middle;" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&labelColor=000000" height="28" alt="Vercel" style="margin:0 10px; vertical-align:middle;" />
-</p>
-
+</div>
 
 
 
